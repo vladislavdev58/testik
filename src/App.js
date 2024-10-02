@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div>{process.env.REACT_APP_TEST}</div>
+        <div>{process.env.REACT_APP_TEST}</div>
+        <div>{process.env.REACT_APP_TEST}</div>
+        <div>{process.env.REACT_APP_TEST}</div>
         Hello
         <p>
           Edit <code>src/App.js</code> and save to reload.
