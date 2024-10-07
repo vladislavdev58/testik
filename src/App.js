@@ -10,7 +10,7 @@ function App() {
         <div>{process.env.REACT_APP_TEST}</div>
         <div>{process.env.REACT_APP_TEST}</div>
         <div>{process.env.REACT_APP_TEST}</div>
-        Hello!
+        !Hello!
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
